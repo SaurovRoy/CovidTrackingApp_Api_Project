@@ -1,0 +1,12 @@
+com.example.covid_tracker.app-core-1.6.0-0 C:\Users\SanZoy\.gradle\caches\transforms-3\0ac69cafe02fb6a620fd01ab7eeac46e\transformed\core-1.6.0\res
+com.example.covid_tracker.app-jetified-window-java-1.0.0-beta04-1 C:\Users\SanZoy\.gradle\caches\transforms-3\1ca6223480698e2cc8888a395a3b82b3\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.covid_tracker.app-jetified-annotation-experimental-1.1.0-2 C:\Users\SanZoy\.gradle\caches\transforms-3\7b4087a0bed712074d3491cd004ecf43\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.covid_tracker.app-jetified-window-1.0.0-beta04-3 C:\Users\SanZoy\.gradle\caches\transforms-3\f7efc37c96c8836093fd781c499cda33\transformed\jetified-window-1.0.0-beta04\res
+com.example.covid_tracker.app-debug-4 F:\flutter project\Covid_api_project\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\debug\res
+com.example.covid_tracker.app-main-5 F:\flutter project\Covid_api_project\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\res
+com.example.covid_tracker.app-pngs-6 F:\flutter project\Covid_api_project\Flutter-Covid-19-Tracker-App-Tutorials-main\build\app\generated\res\pngs\debug
+com.example.covid_tracker.app-resValues-7 F:\flutter project\Covid_api_project\Flutter-Covid-19-Tracker-App-Tutorials-main\build\app\generated\res\resValues\debug
+com.example.covid_tracker.app-rs-8 F:\flutter project\Covid_api_project\Flutter-Covid-19-Tracker-App-Tutorials-main\build\app\generated\res\rs\debug
+com.example.covid_tracker.app-mergeDebugResources-9 F:\flutter project\Covid_api_project\Flutter-Covid-19-Tracker-App-Tutorials-main\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.covid_tracker.app-mergeDebugResources-10 F:\flutter project\Covid_api_project\Flutter-Covid-19-Tracker-App-Tutorials-main\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.covid_tracker.app-merged_res-11 F:\flutter project\Covid_api_project\Flutter-Covid-19-Tracker-App-Tutorials-main\build\app\intermediates\merged_res\debug
